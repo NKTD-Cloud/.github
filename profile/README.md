@@ -1,28 +1,28 @@
 ![NKTD Cloud Logo](../images/logo.png)
 
-# Willkommen bei NKTD Cloud!
+# Welcome to NKTD Cloud!
 
-## Über uns 💻
+## About Us 💻
 
-Bei NKTD Cloud sind wir ein engagiertes Team aus Softwareentwickler und Systemadministrator. Wir arbeiten leidenschaftlich daran, innovative IT-Lösungen zu entwickeln und zu betreiben, die sowohl frei als auch kostengünstig sind.
+At NKTD Cloud, we are a dedicated team of software developers and system administrators from Germany. We are passionate about developing and operating innovative IT solutions that are both free and cost-effective.
 
-## Unser Team 🤝
+## Our Team 🤝
 
-- **Softwareentwicklung**: Unsere Entwicklung schafft maßgeschneiderte Softwarelösungen, die den neuesten technologischen Standards entsprechen.
-- **Systemadministration**: Unsere Administration sorgt für die zuverlässige Einrichtung, Konfiguration und Wartung der Systeme, um einen reibungslosen Betrieb zu gewährleisten.
+- **Software Development**: Our development team creates customized software solutions that meet the latest technological standards.
+- **System Administration**: Our administration team ensures the reliable setup, configuration, and maintenance of systems to guarantee smooth operations.
 
-## Unsere Mission 🎯
+## Our Mission 🎯
 
-Wir glauben an die transformative Kraft der Technologie. Dabei legen wir besonderen Wert auf:
+We believe in the transformative power of technology. Our core values include:
 
-- **Innovation**: Ständige Erforschung und Anwendung der neuesten Technologien.
-- **Kosteneffizienz**: Entwicklung und Bereitstellung erschwinglicher und freier Projekte.
-- **Selbstentwicklung**: Eigenständige Entwicklung und Implementierung unserer Systeme.
+- **Innovation**: Constant exploration and application of the latest technologies.
+- **Cost Efficiency**: Developing and providing affordable and free projects.
+- **Self-Development**: Independently developing and implementing our systems.
 
-## Projekte 🚀
+## Projects 🚀
 
-Unsere Projekte reichen von Gameserver-Hosting bis hin zu fortschrittlichen Softwarelösungen. Wir bieten benutzerfreundliche, leistungsstarke und sichere IT-Dienstleistungen mit Herz! 🫶
+Our projects range from game server hosting to advanced software solutions. We offer user-friendly, powerful, and secure IT services with heart! 🫶
 
-## Kontakt 📬
+## Contact 📬
 
-Wir freuen uns auf deine Nachricht! Wenn du Fragen hast oder mehr über unsere Projekte erfahren möchtest, zögere nicht, uns zu kontaktieren.
+We look forward to hearing from you! If you have any questions or want to learn more about our projects, don't hesitate to contact us.
